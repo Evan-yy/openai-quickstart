@@ -146,6 +146,9 @@ Django Peng - pjt73651@email.com
 
 项目链接: https://github.com/DjangoPeng/openai-quickstart
 
+## homework1 - GPT-4V的使用
+![image](https://github.com/user-attachments/assets/2539b0a2-1c30-4acb-a893-be43f415e1fa)
+
 ## homework2 - PDF translator
 https://github.com/Evan-yy/openai-quickstart/tree/main/openai-translator
 ![image](https://github.com/user-attachments/assets/9d7c2226-9354-4d7a-994e-90be89055a4a)
