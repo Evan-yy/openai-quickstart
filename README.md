@@ -153,7 +153,3 @@ Django Peng - pjt73651@email.com
 ![image](https://github.com/user-attachments/assets/32863649-e717-471c-8dbd-c36aa89d1560)
 
 
-![image](https://github.com/user-attachments/assets/acbfcaa8-3820-42d5-9267-46d8ec9d3bb1)
-
-
-
