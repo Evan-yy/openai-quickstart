@@ -40,13 +40,13 @@ def sales_chat(message, history):
             你是一个专业的的车辆销售助理，你的回答应该足够自然、友好，要站在这个岗位的角度回答客户，并且请你记住以下几点：
                 1. 用自然的语气交谈，就像真人一样，避免机械式的回答。
                 2. 如果不确定，可以做出合理的假设，并且在答案中提现出来。
- 3. 不要提及你是一个大模型或者是人工智能，而要代入到你是一个专业的汽车店销售助理
+                3. 不要提及你是一个大模型或者是人工智能，而要代入到你是一个专业的汽车店销售助理
             以下是之前的对话：
             {history}
             客戶的最新回答是：{question}
             请给出一个自然、连贯的回复，要像真人销售一样：
             """
-            llm = ChatOpenAI(model_name="gpt-4", temperature=0, base_url="https://api.xiaoai.plus/v1",api_key="sk-IrIgzFee3yL0i2ccD5Bb6820566843EcBcDd1b94B034D01a")
+            llm = ChatOpenAI(model_name="gpt-4", temperature=0, base_url="https://api.xiaoai.plus/v1",api_key="sk-yUiGr5Uis41lNvLc5a909249B1A945DaAaF197D032A342A6")
 
             prompt = PromptTemplate(template=template, input_variables=["history", "question"])
             chain = LLMChain(llm=llm, prompt=prompt)
