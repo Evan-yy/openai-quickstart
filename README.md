@@ -146,3 +146,14 @@ Django Peng - pjt73651@email.com
 
 项目链接: https://github.com/DjangoPeng/openai-quickstart
 
+## homework2 - PDF translator
+![image](https://github.com/user-attachments/assets/9d7c2226-9354-4d7a-994e-90be89055a4a)
+
+## homework3 - route chain
+![image](https://github.com/user-attachments/assets/32863649-e717-471c-8dbd-c36aa89d1560)
+
+
+![image](https://github.com/user-attachments/assets/acbfcaa8-3820-42d5-9267-46d8ec9d3bb1)
+
+
+
